@@ -4,8 +4,8 @@ Summary of Problem: The goal of the project was to try to predict job growth out
 
 # Software Architecture Diagram
 ![](http://i62.tinypic.com/2lm4car.jpg)
-
+[](http://i62.tinypic.com/2lm4car.jpg)
 # Data Flow Diagram
 ![](http://i59.tinypic.com/fa1ois.jpg)
-
+[](http://i59.tinypic.com/fa1ois.jpg)
 [Django docs for www/uberjobz app](https://www.djangoproject.com)
